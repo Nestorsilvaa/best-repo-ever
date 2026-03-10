@@ -2,4 +2,6 @@
 ## Minha primeira alteração
 Esta é a minha primeira alteração usando o Git.
 
-Estou aprendendo Git e GitHub 🚀
+Estou aprendendo Git e GitHub 🚀 
+
+Estou quase desistindo
